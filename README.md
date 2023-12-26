@@ -1,4 +1,5 @@
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*eajy6i*_ga*OTMwODUxNDEzMS4xNjk5MTEzMTI3*_ga_3LRZM6TM9L*MTcwMzU3MzgzNi45NS4xLjE3MDM1NzM5MjcuNTAuMC4w
+
 # codecademy-tea-cozy
 Off-Platform Project: Tea Cozy
 
